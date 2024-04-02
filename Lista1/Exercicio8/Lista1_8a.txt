@@ -1,0 +1,5 @@
+VBO: Armazenaria as coordenadas dos vértices e as cores associadas a cada vértice. Cada vértice seria representado por seis valores: três para as coordenadas (x, y, z) e três para a cor (R, G, B).
+
+VAO: Configurado para apontar para os dados no VBO. Definiria o layout dos dados nos shaders.
+
+EBO: Não seria necessário, pois estamos desenhando apenas um único triângulo.
