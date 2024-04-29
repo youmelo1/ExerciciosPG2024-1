@@ -1,4 +1,0 @@
-Quando posicionamos os objetos, estamos definindo suas posições em relação à origem do sistema. 
-Permitindo posicionar elementos de forma precisa na tela, facilitando a criação de elementos gráficos. 
-A configuração é útil pois simplifica o trabalho sem a complexidade da perspectiva 
-tridimensional.
