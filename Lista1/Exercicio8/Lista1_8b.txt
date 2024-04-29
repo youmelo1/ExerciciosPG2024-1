@@ -1,0 +1,4 @@
+No vertex shader, os atributos seriam identificados pelos seguintes nomes:
+
+Coordenadas dos vértices: in vec3 position;
+Cores dos vértices: in vec3 color;
